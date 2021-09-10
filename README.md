@@ -7,7 +7,7 @@
     🤔 I'm accepting all types of help, and optimisation propositions.
     💬 If you need informations about my project, contact me.
     📫 How to contact me ? --> discord : Nekyuu#1719
-    ⚡ Fun fact: My favorite animal is the hawk�.
+    ⚡ Fun fact: My favorite animal is the hawk.
     👾 My favorite video games are Minecraft and Counter-strike (Source & GO)
     
 ### ⚙️ &nbsp;GitHub Analytics
