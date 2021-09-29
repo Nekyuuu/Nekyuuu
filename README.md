@@ -3,7 +3,7 @@
 
     🔭 In student 
     🌱 Studying to be : Freelance Developper / Pentester
-    👯 Do not ask to work with me. I'm working alone. But sometimes, I can accept.
+    👯 You can ask to work with me. Usually I'm working alone.
     🤔 I'm accepting all types of help, and optimisation propositions.
     💬 If you need informations about my project, contact me.
     📫 How to contact me ? --> discord : Nekyuu#1719
