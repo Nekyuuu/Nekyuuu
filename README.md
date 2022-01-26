@@ -1,26 +1,68 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Nekyuuu.Nekyuuu"/>
-<h1 align="center">Hello 👋 I am Nekyuu.</h1> 
-
-    🔭 In student 
-    🌱 Studying to be : Freelance Developper / Pentester
-    👯 You can ask to work with me. Usually I'm working alone.
-    🤔 I'm accepting all types of help, and optimisation propositions.
-    💬 If you need informations about my project, contact me.
-    📫 How to contact me ? --> discord : Nekyuu#0001
-    ⚡ Fun fact: My favorite animal is the hawk.
-    👾 My favorite video games are Minecraft and Counter-strike (Source & GO)
-    
-### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
-<a href="https://github.com/Nekyuuu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nekyuuu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nekyuuu&layout=compact&langs_count=8&theme=algolia"/>
+  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Badri Vishal</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+</p>
+<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋 Hi, I’m Nekyuu</li>
+  <li>❤️ I love coding random projects.</li>
+  <li>💼 I'm a student.</li>
+</ul>
+
+#### A little more about me
+```golang
+public class me(){
+    string username = "Nekyuu";
+    string discord = "Nekyuu#0001";
+    string programming languages = "Python / C# / Golang";
+    int age = 14;
+}
+```
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
 </p>
 
-### 🛠 &nbsp;Tools
+#### Contribution Graph
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+<!---
+MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+#### I'm an Early 🐤
+```text
+🌞 Morning         ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime         ████████████░░░░░░░░░░░░░   54.5% 
+🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░   20.5% 
+🌙 Night           ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+```
+
+#### I Spent My Time On
+```text
+💬 Programming Lanuages:
+- Python
+- C#
+- Golang
+
+
+🔥 Editors:
+VS Code
+Visual Studio
+
+💻 Operating System:
+Windows
+```
+
