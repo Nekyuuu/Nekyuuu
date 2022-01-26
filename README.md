@@ -39,10 +39,10 @@ public class me(){
 
 
 🔥 Editors:
-VS Code
-Visual Studio
+- VS Code
+- Visual Studio
 
 💻 Operating System:
-Windows
+- Windows
 ```
 
