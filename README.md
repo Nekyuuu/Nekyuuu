@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<p>I'm a 14yo developper.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m Nekyuu</li>
@@ -17,7 +17,7 @@
 public class me(){
     string username = "Nekyuu";
     string discord = "Nekyuu#0001";
-    string programming languages = "Python / C# / Golang";
+    string programming_languages = "Python / C# / Golang";
     int age = 14;
 }
 ```
