@@ -14,7 +14,7 @@
 
 #### A little more about me
 ```golang
-public class me(){
+public class me{
     string username = "Nekyuu";
     string discord = "Nekyuu#0001";
     string programming_languages = "Python / C# / Golang";
