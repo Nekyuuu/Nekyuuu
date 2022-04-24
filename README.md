@@ -16,7 +16,7 @@
 ```golang
 public class me{
     string username = "Nekyuu";
-    string discord = "Nekyuu#0001";
+    string discord = "Nekyuu#3844";
     string programming_languages = "Python / C# / Golang";
     int age = 14;
 }
