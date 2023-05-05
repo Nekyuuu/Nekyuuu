@@ -17,7 +17,7 @@
 public class me{
     string username = "Nekyuu";
     string discord = "Nekyuu#3844";
-    string programming_languages = "Python / C# / Golang";
+    string programming_languages = "Python / C# / Golang / JS";
     int age = 15;
 }
 ```
