@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
-<p>I'm a 15yo developper.</p>
+<p>I'm a 16yo developper.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m Nekyuu</li>
@@ -17,17 +17,17 @@
 public class me{
     string username = "Nekyuu";
     string discord = "Nekyuu#3844";
-    string programming_languages = "Python / C# / Golang / JS";
-    int age = 15;
+    string programming_languages = "Python / C# / Golang / JS / Java";
+    int age = 16;
 }
 ```
 
 #### I'm an Early 🐤
 ```text
-🌞 Morning         ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime         ████████████░░░░░░░░░░░░░   54.5% 
-🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░   20.5% 
-🌙 Night           ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+🌞 Morning         ████████████████████░░░░░
+🌆 Daytime         ███████████████░░░░░░░░░░
+🌃 Evening         ██████░░░░░░░░░░░░░░░░░░░
+🌙 Night           ███░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 #### I Spent My Time On
@@ -36,11 +36,14 @@ public class me{
 - Python
 - C#
 - Golang
+- JS
+- Java
 
 
 🔥 Editors:
 - VS Code
 - Visual Studio
+- Itellij IDEA
 
 💻 Operating System:
 - Windows
